@@ -1,2 +1,6 @@
 # Hellow_LEE
-just Repository
+
+just Repository.
+
+
+Hi my name is lee
